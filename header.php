@@ -23,7 +23,7 @@
 
 		<nav id="main-nav">
 			<ul class="menu">
-				<?php wp_list_pages(); ?>
+				<?php wp_list_pages('title_li='); ?>
 			</ul>
 		</nav><!-- /#main-nav -->
 
