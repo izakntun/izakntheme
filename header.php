@@ -23,12 +23,7 @@
 
 		<nav id="main-nav">
 			<ul class="menu">
-				<li><a href="">Inicio</a></li>
-				<li><a href="">Portafolio</a></li>
-				<li><a href="">Curriculum Vitae</a></li>
-				<li><a href="">Blog</a></li>
-				<li><a href="">Acerca de mi</a></li>
-				<li><a href="">Contacto</a></li>
+				<?php wp_list_pages(); ?>
 			</ul>
 		</nav><!-- /#main-nav -->
 
