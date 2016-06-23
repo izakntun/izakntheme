@@ -1,0 +1,30 @@
+commit b10e277f195df2172bd8ed0a75130eba5cc24bce
+ 
+Author: Isaac Cantun <izakntun@gmail.com> 
+
+Date:   Mon Jun 20 23:10:26 2016 -0500
+
+    
+modificaciones finales al menu
+
+ 
+
+commit 4ef043bdc22659764a741720d6b18004d8ce31c8
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Mon Jun 20 22:56:51 2016 -0500
+
+    
+se modifico el menu y se hizo dinamico
+
+
+
+commit 1c0652e6a64c3c8a85e34fa1ffe875dd87888e49
+
+Author: Isaac Cantun <izakntun@gmail.com>
+
+Date:   Mon Jun 20 22:36:11 2016 -0500
+
+    
+archivos de mi tema de wordpress
