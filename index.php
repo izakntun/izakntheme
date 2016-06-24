@@ -24,11 +24,13 @@
 					</div>
 				</article>	<!-- article -->
 			<?php endif; ?>
+			<?php if (get_next_posts_link() || get_previous_posts_link()) { ?>
 
 				<div class="posts-nav cf">
-					<a href="" >&larr; Previos</a>
-					<a href="" >Recientes &rarr;</a>
+					<?php next_posts_link(__('&larr; Previos', 'apk')); ?>
+					<?php previous_posts_link(__('Recientes &rarr;', 'apk')); ?>
 				</div>
+				<?php } ?>
 			</section><!-- /#main-content -->
 
 
